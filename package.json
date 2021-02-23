@@ -1,0 +1,22 @@
+{
+  "name": "mychat01",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
+    "core-js": "^3.6.5",
+    "firebase": "^8.2.7",
+    "nuxt": "^2.14.6",
+    "vuexfire": "^3.2.5"
+  },
+  "devDependencies": {
+    "sass": "^1.32.8",
+    "sass-loader": "^10.1.1"
+  }
+}
